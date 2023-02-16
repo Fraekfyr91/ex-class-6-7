@@ -1,6 +1,6 @@
 
 
-class new_class():
+class new_class:
     '''
     An awesome class that prints something!!!
 
