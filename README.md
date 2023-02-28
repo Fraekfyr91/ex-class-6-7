@@ -3,5 +3,6 @@
 
 Contains folders for each workshop
 - Workshop 1 Intro
-- Workshop 2 start workflow
-- Workshop 3 class workflow
+- Workshop 2 Start workflow
+- Workshop 3 Class workflow
+- Workshop 4 Optimizers
