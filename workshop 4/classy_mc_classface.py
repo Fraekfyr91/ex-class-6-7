@@ -63,10 +63,10 @@ class optimum():
         Plots graph
 
         Args:
-        x1_vec (numpy.ndarray): vector with values to plot
-
+            Method (str): Algorithm to scipy solver
+            disp (bool): Display solve output
         Returns:
-        eq_1 (scalar): Function value
+            
         """
         x_1, f_x1 = self.solve(method, disp)
         fig = plt.figure(figsize=(10,5)) # define new figure object
